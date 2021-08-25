@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="//libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="//cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <title>随机点名器</title>
+</head>
+
+<body>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        #wrapper {
+            margin-top: 20vh;
+            text-align: center;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 20px;
+        }
+
+        a[href] {
+            text-decoration: none;
+            color: rgb(1, 154, 243);
+            font-size: 20px;
+        }
+
+        a[href]::before {
+            content: '> ';
+        }
+
+        #callname {
+            font-size: 128px;
+        }
+
+        form {
+            width: 100%;
+            text-align: center;
+        }
+
+        #callend {
+            display: inline-block;
+            padding: 6px;
+            font-size: 20px;
+        }
+
+        #submit {
+            padding: 12px;
+            background: #f3f3f3;
+            display: inline-block;
+            color: #000000;
+            cursor: pointer;
+        }
+    </style>
+
+    <div id="wrapper">
+        <h1>随机点名器</h1>
+        <form>
+            <input type="text" id="callend" placeholder="终止序号" />
+            <a id="submit">开始</a>
+        </form>
+        <h1 id="callname">0</h1>
+        <!--<a href="https://www.luoling8192.top">RainbowBird (c) 2020</a>-->
+    </div>
+</body>
+
+<script>
+    // 访客统计
+    //$.post('https://www.xjezitc.xyz/get?to=visitor');
+    let list = {}
+
+    function whitelist(id) {
+        let date = new Date();
+        date.setTime(date.getTime() + 60 * 60 * 60 * 24);
+
+        if (id in list) {
+            if (list[id] == 0) {
+                return false;
+            } else {
+                let cnt = $.cookie(`list_${id}`);
+                if (cnt == undefined) cnt = 0;
+                if (cnt <= list[id]) {
+                    $.cookie(`list_${id}`, parseInt(cnt) + 1, {expires: date});
+                    return false;
+                } else {
+                    $.cookie(`list_${id}`, 0, {expires: date});
+                    return true;
+                }
+            }
+        }
+        
+        return true;
+    }
+
+    function getRndInteger(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    $(function () {
+        $('#callend').val($.cookie('callend'))
+
+        $('#submit').click(function () {
+            let date = new Date();
+            date.setTime(date.getTime() + 60 * 60 * 60 * 24 * 7 * 1000);
+            $.cookie('callend', $('#callend').val(), {
+                expires: date
+            });
+
+            let id = getRndInteger(1, $('#callend').val());
+
+            while (whitelist(id) == false) {
+                id = getRndInteger(1, $('#callend').val());
+            }
+
+            $('#callname').text(id);
+        })
+    })
+</script>
+
+</html>

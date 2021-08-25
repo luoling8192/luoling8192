@@ -1,0 +1,216 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    /*text-shadow: rgba(0, 0, 0, .8) 0px 0px 0px;*/
+}
+
+.aplayer * {
+    color: #666;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-image: url('../img/wallpaper.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.tag {
+    display: inline-block;
+    color: #333;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 10px;
+    margin: 6px 2px;
+    background: #f3f3f3;
+    text-decoration: none;
+    transition: all .25s;
+    -webkit-transition: all .25s;
+    cursor: default;
+}
+
+.tag:hover {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: rgba(0, 0, 0, .1) 0 5px 10px;
+    -webkit-box-shadow: rgba(0, 0, 0, .1) 0 5px 10px;
+}
+
+h1, h2, h3, a, p {
+    color: rgba(0, 0, 0, .8);
+}
+
+p span {
+    display: block;
+}
+
+#wrapper {
+    height: 100%;
+    position: relative;
+}
+
+.out {
+    position: relative;
+    /*width: 1032px;*/
+    width: 320px;
+    margin: 0 auto;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.box {
+    vertical-align: top;
+    background: rgba(255, 255, 255, .6);
+    width: 320px;
+    height: 480px;
+    padding: 12px;
+    display: inline-block;
+    position: relative;
+}
+
+.box.about span {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box.contact a[href] {
+    text-decoration: none;
+    color: rgb(65, 105, 225);
+    transition: all .15s;
+}
+
+.box.contact a[href]:hover {
+    color: #ff7496;
+}
+
+#face>img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 2rem auto 0 auto;
+    border-radius: 128px;
+}
+
+#nickname {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 1rem;
+    color: rgba(0, 0, 0, .8);
+}
+
+#topage {
+    margin: 1.8rem 0;
+    text-align: center;
+}
+
+#topage a {
+    display: inline-block;
+    width: 45%;
+    height: 30px;
+    line-height: 30px;
+    background: rgba(255, 255, 255, .1);
+    text-align: center;
+    transition: all .25s;
+    color: rgba(0, 0, 0, .8);
+    text-decoration: none;
+    border: 1px solid rgba(0, 0, 0, .8);
+    border-radius: 3px;
+    margin: 2px 0px;
+}
+
+#topage a:hover {
+    cursor: pointer;
+    color: #ff7496;
+    border: 1px solid #ff7496;
+}
+
+#contact {
+    /*position: absolute;*/
+    bottom: 20px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+#contact span a {
+    position: relative;
+}
+
+#contact span i {
+    width: 16px;
+    height: 16px;
+    margin: 0 6px;
+    color: rgba(0, 0, 0, .8);
+    transition: all .25s;
+}
+
+#contact span i:hover {
+    color: #ff7496;
+}
+
+/*#contact a::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: all .25s;
+    border-radius: 32px;
+    z-index: -1;
+}
+
+#contact a:hover::before {
+    border-color: #ff7496;
+}*/
+
+#footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    color: rgba(255, 255, 255, .8);
+    text-align: center;
+    margin-top: 10px;
+}
+
+#footer span {
+    text-align: center;
+}
+
+@media screen and (max-width: 1032px) {
+    .out {
+        width: 320px;
+        height: 100%;
+        top: 0;
+        transform: none;
+    }
+
+    .box {
+        transform: translateY(-50%);
+        top: 50%;
+    }
+
+    /*.box.about {
+        transform: translateY(540px);
+        height: 420px;
+    }
+
+    .box.main {
+        transform: translateY(-420px);
+    }
+
+    .box.contact {
+        height: 420px;
+    }*/
+    
+    /*#footer {
+        position: absolute;
+        bottom: -10px;
+    }*/
+}
