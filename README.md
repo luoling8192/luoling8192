@@ -10,6 +10,8 @@
 - 🌐 Full stack developer
 - ❤️ I embrace everything interesting and fun!
 
+![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192)
+
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,sass,c,cpp,python,java,cs,php,nodejs,vue,react,vite,redux,express,jquery,regex,electron,docker,workers,linux,bash,vim,nginx,git,md,mysql,vscode,idea&theme=light)](https://skillicons.dev)
