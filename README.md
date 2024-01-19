@@ -10,7 +10,7 @@
 - 🌐 Full stack developer
 - ❤️ I embrace everything interesting and fun!
 
-![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192)
+![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192?a)
 
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
