@@ -1,7 +1,11 @@
 # 👋 Hi there! I'm RainbowBird 🌈🐦
 
-<a href="https://github.com/luoling8192?tab=repositories" >
+<!--<a href="https://github.com/luoling8192?tab=repositories" >
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=luoling8192&show_icons=true&theme=rose" />
+</a>-->
+
+<a href="https://gitroll.io/profile/u5EsXuBXEzUarcUG7WxWZdHyXNao1" target="_blank">
+  <img align=right width="45%" src="https://gitroll.io/api/badges/profiles/v1/u5EsXuBXEzUarcUG7WxWZdHyXNao1" alt="GitRoll Profile Badge"/>
 </a>
 
 - 🧠 OIer & Enthusiast
