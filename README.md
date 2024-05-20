@@ -18,5 +18,5 @@
 
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,sass,c,cpp,python,go,java,cs,php,nodejs,vue,react,vite,pinia,redux,tailwindcss,express,jquery,regex,electron,docker,k8s,workers,linux,bash,neovim,nginx,git,md,latex,mysql,redis,vscode,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,sass,c,cpp,python,go,java,cs,php,nodejs,vue,react,vite,pinia,redux,tailwindcss,express,jquery,regex,electron,docker,k8s,workers,bash,vim,nginx,git,md,latex,mysql,redis,vscode,idea,linux,arch,nix,ubuntu&theme=light)](https://skillicons.dev)
 
