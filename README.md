@@ -30,11 +30,5 @@
 ## Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,vue,react,vite,pinia,redux,tailwindcss,express,jquery,regex,electron&theme=light)](https://skillicons.dev)
 
-## Tools
-[![Tools](https://skillicons.dev/icons?i=bash,vim,git,md,latex&theme=light)](https://skillicons.dev)
-
 ## Softwares
 [![Softwares](https://skillicons.dev/icons?i=docker,k8s,workers,nginx,mysql,postgresql,redis&theme=light)](https://skillicons.dev)
-
-## Platforms
-[![Platforms](https://skillicons.dev/icons?i=linux,ubuntu,arch,nix,vscode,idea&theme=light)](https://skillicons.dev)
