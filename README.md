@@ -14,13 +14,13 @@
 </a>-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align=right width="40%" style="margin-bottom: 2rem;" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoling8192&layout=compact&hide=other,json,yaml,markdown&langs_count=6" alt="WakaTime stats"/>
+  <img align=right width="40%" style="margin-bottom: 2rem;" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoling8192&layout=compact&hide=other,json,yaml,markdown&langs_count=6&show_icons=true" alt="WakaTime stats"/>
 </a>
 
 - 🏖 Digital nomad
 - 🧠 Ex OIer
 - 💻 Full stack developer
-- ✏️ Studying golang
+- ✏️ Studying Golang
 
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
@@ -30,3 +30,10 @@
 ---
 
 [![Framework](https://skillicons.dev/icons?i=ts,cpp,python,go,cs,php,nodejs,vue,react,vite,pinia,redux,tailwindcss,express,jquery,regex,electron,docker,k8s,workers,nginx,mysql,postgresql,redis&theme=light)](https://skillicons.dev)
+
+<a href="https://github.com/luoling8192">
+  <img align="center" width="49%" src="./metrics-main.svg" />
+</a>
+<a href="https://github.com/luoling8192">
+  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
+</a>
