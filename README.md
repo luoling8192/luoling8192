@@ -1,4 +1,6 @@
 # 👋 Hi there! I'm RainbowBird 🦜
+![Counter](https://komarev.com/ghpvc/?username=luoling8192)
+[![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192?b)](https://github.com/luoling8192/dxrating)
 
 <!--<a href="https://github.com/luoling8192?tab=repositories" >
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=luoling8192&show_icons=true" />
@@ -14,7 +16,7 @@
 </a>-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align=right width="40%" style="margin-bottom: 2rem;" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoling8192&layout=compact&hide=other,json,yaml,markdown&langs_count=6&show_icons=true" alt="WakaTime stats"/>
+  <img align=right width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoling8192&layout=compact&hide=other,json,yaml,markdown,tex,csv&langs_count=6&show_icons=true&theme=rose" alt="WakaTime stats"/>
 </a>
 
 - 🏖 Digital nomad
@@ -24,8 +26,7 @@
 
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
-![Counter](https://komarev.com/ghpvc/?username=luoling8192)
-[![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192?b)](https://github.com/luoling8192/dxrating)
+
 
 ---
 
