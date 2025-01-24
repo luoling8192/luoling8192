@@ -26,3 +26,7 @@
 
 ![Counter](https://komarev.com/ghpvc/?username=luoling8192)
 [![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192?b)](https://github.com/luoling8192/dxrating)
+
+---
+
+[![Framework](https://skillicons.dev/icons?i=ts,cpp,python,go,cs,php,nodejs,vue,react,vite,pinia,redux,tailwindcss,express,jquery,regex,electron,docker,k8s,workers,nginx,mysql,postgresql,redis&theme=light)](https://skillicons.dev)
