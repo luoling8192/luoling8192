@@ -2,9 +2,9 @@
 ![Counter](https://komarev.com/ghpvc/?username=luoling8192)
 [![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192?b)](https://github.com/luoling8192/dxrating)
 
-<!--<a href="https://github.com/luoling8192?tab=repositories" >
+<a href="https://github.com/luoling8192?tab=repositories" >
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=luoling8192&show_icons=true" />
-</a>-->
+</a>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <!--<a href="https://github.com/luoling8192?tab=repositories" >
@@ -15,9 +15,9 @@
   <img align=right width="40%" style="margin-bottom: 2rem;" src="https://gitroll.io/api/badges/profiles/v1/u5EsXuBXEzUarcUG7WxWZdHyXNao1" alt="GitRoll Profile Badge"/>
 </a>-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align=right width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoling8192&layout=compact&hide=other,json,yaml,markdown,tex,csv&langs_count=6&show_icons=true&theme=rose" alt="WakaTime stats"/>
-</a>
+</a>-->
 
 - 🏖 Digital nomad
 - 🧠 Ex OIer
