@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm RainbowBird 🦜
 ![Counter](https://komarev.com/ghpvc/?username=luoling8192)
-[![DX-Rating](https://dxrating.luoling.moe/api/genImage/luoling8192?b)](https://github.com/luoling8192/dxrating)
+[![DX-Rating](https://dxrating.luoling.moe/api/luoxue/genImage/689056381852418)](https://github.com/luoling8192/dxrating)
 
 <a href="https://github.com/luoling8192?tab=repositories" >
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=luoling8192&show_icons=true" />
