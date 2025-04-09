@@ -19,10 +19,10 @@
   <img align=right width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=luoling8192&layout=compact&hide=other,json,yaml,markdown,tex,csv&langs_count=6&show_icons=true&theme=rose" alt="WakaTime stats"/>
 </a>-->
 
-- 🏖 Digital nomad
-- 🧠 Ex OIer
 - 💻 Full stack developer
-- ✏️ Studying Golang
+- ❤️ Love open-source
+- ❤️‍🔥 Love creation
+- 👋 PM friendly
 
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
