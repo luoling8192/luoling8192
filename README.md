@@ -3,7 +3,7 @@
 [![DX-Rating](https://dxrating.luoling.moe/api/luoxue/genImage/689056381852418)](https://github.com/luoling8192/dxrating)
 
 <a href="https://github.com/luoling8192?tab=repositories" >
-  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=luoling8192&show_icons=true" />
+  <img align=right width="45%" src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=luoling8192&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
