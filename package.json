@@ -1,0 +1,12 @@
+{
+  "name": "luoling8192",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sponsorkit": "sponsorkit"
+  },
+  "packageManager": "pnpm@10.10.0",
+  "devDependencies": {
+    "sponsorkit": "^16.4.2"
+  }
+}
