@@ -23,14 +23,14 @@ jobs:
       - run: pnpm i
 
       - name: Update sponsors
-        run: npm run build
+        run: pnpm run sponsorkit
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: luoling8192
-          SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
-          SPONSORKIT_OPENCOLLECTIVE_SLUG: luoling8192
-          SPONSORKIT_AFDIAN_USER_ID: ${{ secrets.SPONSORKIT_AFDIAN_USER_ID }}
-          SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
+          # SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
+          # SPONSORKIT_OPENCOLLECTIVE_SLUG: luoling8192
+          # SPONSORKIT_AFDIAN_USER_ID: ${{ secrets.SPONSORKIT_AFDIAN_USER_ID }}
+          # SPONSORKIT_AFDIAN_TOKEN: ${{ secrets.SPONSORKIT_AFDIAN_TOKEN }}
 
       - name: Commit
         uses: EndBug/add-and-commit@v9
@@ -40,4 +40,5 @@ jobs:
           message: 'chore: update sponsors.svg [ci skip]'
           add: "sponsors.*"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
