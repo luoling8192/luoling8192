@@ -26,8 +26,9 @@
 
 [Blog](https://blog.luoling.moe) | [Twitter](https://www.twitter.com/luoling8192) | [Email](mailto:me@luoling.moe)
 
+<img align="center" width="100%" src="./sponsorkit/sponsors.svg" />
 
-
+<!-- 
 ---
 
 [![Framework](https://skillicons.dev/icons?i=ts,cpp,python,go,cs,php,nodejs,vue,react,vite,pinia,redux,tailwindcss,express,jquery,regex,electron,docker,k8s,workers,nginx,mysql,postgresql,redis&theme=light)](https://skillicons.dev)
@@ -38,3 +39,4 @@
 <a href="https://github.com/luoling8192">
   <img align="center" width="49%" src="./metrics-lang-notable.svg" />
 </a>
+-->
