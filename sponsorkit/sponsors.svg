@@ -15,7 +15,7 @@ text {
   font-size: 20px;
 }
 </style>
-<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Silver Sponsors</text><a href="http://group-ultra.com" class="sponsorkit-link" target="_blank" id="Brandon-c-tech">
+<text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Silver Sponsors</text><a href="https://intent.inc" class="sponsorkit-link" target="_blank" id="Brandon-c-tech">
   <text x="400" y="153" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Cy-603</text>
   
   <clipPath id="c03fe19">
