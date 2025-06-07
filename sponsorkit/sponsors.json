@@ -21087,9 +21087,9 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 20,
+    "monthlyDollars": 50,
     "privacyLevel": "PUBLIC",
-    "tierName": "$20 a month",
+    "tierName": "$50 a month",
     "createdAt": "2024-12-06T03:59:51Z",
     "provider": "github"
   },
