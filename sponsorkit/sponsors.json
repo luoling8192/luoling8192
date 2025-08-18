@@ -32167,7 +32167,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 5,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 a month",
     "createdAt": "2025-03-24T22:11:35Z",
