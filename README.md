@@ -24,7 +24,7 @@
 - ❤️‍🔥 Love creation
 - 👋 PM friendly
 
-[Blog](https://blog.luoling.moe) | [X](https://www.x.com/luoling8192) | [Email](mailto:rbxin2003@outlook.com)
+[Blog](https://blog.luoling.moe) | [X](https://www.x.com/luoling8192) | [Email](mailto:luoling8192@gmail.com)
 
 <img align="center" width="100%" src="./sponsorkit/sponsors.svg" />
 
