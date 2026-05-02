@@ -295,7 +295,7 @@
       "avatarBuffer": "UklGRh4BAABXRUJQVlA4IBIBAAAwDACdASp4AHgAPm00lEekIyIhKRnIMIANiWdu3V+FyMIB/4N8Ap7IY2SksQCoWucOTajbmfMxJc/nynoqQ7139uJGqxX7APWIRTbWf/rY2Me/5CA83OrmKq4nSu1Df1pjxuA0w4zdVSgAAP76OoBk8+gzs8TGsi5wS1gIcDM4Rowl8gcZBj0JKyNMn1lWnlb94CGaNeRgeXN59L4THtKinRCzhxQ69X8s/tzAB/WQdb2rjTBgrgRoS58rBEymIS3Bx8sWb+FWpS8KIDmyElYCM813730YRffp5w7DZxC+T0QyUxEHBeW4Mx1+ggbN/FZDWpp5Bfk2pWTpCGtJ+gD8azUunELMVqu+vwvwKLIAAAAA"
     },
     "isOneTime": true,
-    "monthlyDollars": 3,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$3 one time",
     "createdAt": "2026-03-30T22:54:33Z",
